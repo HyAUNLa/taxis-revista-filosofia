@@ -189,6 +189,7 @@ footer img {
   }
   .img-container {
     height: 100vh;
+    overflow: hidden;
   }
   .img-container img {
     width: auto;
